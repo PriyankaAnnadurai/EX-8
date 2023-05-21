@@ -17,6 +17,8 @@ Sockets Links.
 
 ### CLIENT :
 ```
+# Developed by: PRIYANKA.A
+# Register No: 212222230113
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
@@ -28,6 +30,8 @@ while True:
 
 ### SERVER :
 ```
+# Developed by: PRIYANKA.A
+# Register No: 212222230113
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
